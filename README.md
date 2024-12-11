@@ -12,7 +12,7 @@ Creates a database to organize Departments, Roles, and Employees
 use npm start in git bash terminal
 
 ## Contributing
-type your own
+
 
 ## Tests
 
