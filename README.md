@@ -1,7 +1,6 @@
 
 # Employee Tracker
 by Cory
-![Github license](https://img.shields.io/badge/license-MIT-blue.svg)
 
 ## Description
 Creates a database to organize Departments, Roles, and Employees
@@ -20,8 +19,6 @@ type your own
 
 
 ## License
-This project is licensed under the MIT license.
-[License](https://opensource.org/licenses/MIT)
 
 ## Questions
 If you have any questions, please reach out to me on GitHub: [Raumus204](https://github.com/Raumus204) or via email: Enacra204@gmail.com.
